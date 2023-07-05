@@ -1,0 +1,22 @@
+{
+    "AceiteDeOliva":{
+        "CantidadDeEnvases":2,
+        "CantidadNetaPorPaquete":5000,
+        "UnidadDeProducto":"ml",
+        "Fabricante":"Envero",
+        "NumeroDeLote":"N1310523",
+        "FechaDeVencimiento":"300524",
+        "Cuarentena":"No",
+        "NumeroDeRegistroInterno":"AM105"
+    },
+    "SCI":{
+        "CantidadDeEnvases":1,
+        "CantidadNetaPorPaquete":5000,
+        "UnidadDeProducto":"g",
+        "Fabricante":"Nameco",
+        "NumeroDeLote":"N1310523",
+        "FechaDeVencimiento":"300524",
+        "Cuarentena":"No",
+        "NumeroDeRegistroInterno":"TA106"
+    }
+}

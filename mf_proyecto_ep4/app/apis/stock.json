@@ -1,0 +1,22 @@
+{
+    "AceiteDeOliva":{
+        "CantidadDeEnvases":5,
+        "CantidadNeta":15000,
+        "UnidadDeProducto":"ml",
+        "Fabricante":["Envero","Envero","Envero"],
+        "NumeroDeLote":["N2310523","N2310524","N2310525"],
+        "FechaDeVencimiento":["SV","SV","SV"],
+        "Cuarentena":"No",
+        "NumeroDeRegistroInterno":["AM105","AM106","AM107"]
+    },
+    "SCI":{
+        "CantidadDeEnvases":3,
+        "CantidadNeta":25000,
+        "UnidadDeProducto":"g",
+        "Fabricante":["Nameco","Nameco","Nameco"],
+        "NumeroDeLote":["N1310523","N1310524","N1310525"],
+        "FechaDeVencimiento":["300524","300524","300524"],
+        "Cuarentena":"No",
+        "NumeroDeRegistroInterno":["TA106","TA107","TA108"]
+    }
+}
