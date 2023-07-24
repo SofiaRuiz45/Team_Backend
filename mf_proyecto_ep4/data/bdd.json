@@ -1,0 +1,58 @@
+{
+    "Materia":[
+        {"Nombre":"Aceite de oliva",
+            "CantidadDeEnvases":2,
+            "CantidadNetaPorPaquete":5000,
+            "UnidadDeProducto":"ml",
+            "Fabricante":"Envero",
+            "NumeroDeLote":"N1310523",
+            "FechaDeVencimiento":"300524",
+            "Cuarentena":"No",
+            "NumeroDeRegistroInterno":"AM105"
+        },
+        {"Nombre":"SCI",
+            "CantidadDeEnvases":1,
+            "CantidadNetaPorPaquete":5000,
+            "UnidadDeProducto":"g",
+            "Fabricante":"Nameco",
+            "NumeroDeLote":"N1310523",
+            "FechaDeVencimiento":"300524",
+            "Cuarentena":"No",
+            "NumeroDeRegistroInterno":"TA106"
+        }
+    ],
+    "Stock":[
+        {   "Nombre":"Aceite de oliva",
+            "CantidadDeEnvases":5,
+            "CantidadNeta":15000,
+            "UnidadDeProducto":"ml",
+            "Fabricante":["Envero","Envero","Envero"],
+            "NumeroDeLote":["N2310523","N2310524","N2310525"],
+            "FechaDeVencimiento":["SV","SV","SV"],
+            "Cuarentena":"No",
+            "NumeroDeRegistroInterno":["AM105","AM106","AM107"]
+        },
+        {   "Nombre":"SCI",
+            "CantidadDeEnvases":3,
+            "CantidadNeta":25000,
+            "UnidadDeProducto":"g",
+            "Fabricante":["Nameco","Nameco","Nameco"],
+            "NumeroDeLote":["N1310523","N1310524","N1310525"],
+            "FechaDeVencimiento":["300524","300524","300524"],
+            "Cuarentena":"No",
+            "NumeroDeRegistroInterno":["TA106","TA107","TA108"]
+        }
+    ],
+    "Recetas":[
+        {   "Nombre":"Jabon de jarilla",
+            "CantidadDeEnvases":3,
+            "CantidadNeta":25000,
+            "UnidadDeProducto":"g",
+            "Fabricante":["Nameco","Nameco","Nameco"],
+            "NumeroDeLote":["N1310523","N1310524","N1310525"],
+            "FechaDeVencimiento":["300524","300524","300524"],
+            "Cuarentena":"No",
+            "NumeroDeRegistroInterno":["TA106","TA107","TA108"]
+        }
+    ]
+}
